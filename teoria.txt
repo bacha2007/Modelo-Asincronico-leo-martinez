@@ -1,0 +1,10 @@
+proceso 1
+*asincronia
+el concepto:mandas un pedido(ej.pedir una lista de contactos) y js sigue
+ejecutando el resto del codigo.cuando la respuesta llega,se ejecuta un
+"callback" o se resuelve una "promesa".
+
+promesas:Un objeto que respresenta un valor que puede estar disponible
+ahora,en el futuro o nunca.tienen 3 metodos:pending,fulfided(completada)
+o rejected.
+
